@@ -7,9 +7,10 @@ I use a U-Net model.
 ## The challenges 
 I initially tried using a pre-trained GitHub model, but integration issues pushed me to develop my own U-Net architecture from scratch. I faced challenges due to the visual similarity between snow and avalanches, which I solved by applying a custom weighted loss function to address class imbalance.
 
-Here is an overview:
-![Tic tac toe game](image/image-avalanche.png)  
-![Tic tac toe game]("image/image avalanche 2.png")
+Here is an overview:  
+
+![](image/image-avalanche.png)  
+![](image/image avalanche 2.png)
 
 ## The whole project 
 ### Our vision
