@@ -16,6 +16,6 @@ Aside from the AI segmentation map, we also build together:
 * Segmentation detection of avalanches
 * Spam detections of pictures that are not mountains
 
-The github repository is here: https://github.com/Giuspepe/aivalanche 
+The whole github repository is here: https://github.com/Giuspepe/aivalanche 
 
 Contributor: Hoang Sao Mai Le, Claudia Fricker, Giuseppe CIanci, Julian Sponsei
