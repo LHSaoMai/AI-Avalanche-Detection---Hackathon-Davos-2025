@@ -1,1 +1,1 @@
-# AI-Avalanche-Detection---Hackethon-Davos-2025
+# AI-Avalanche-Detection---Hackathon-Davos-2025
