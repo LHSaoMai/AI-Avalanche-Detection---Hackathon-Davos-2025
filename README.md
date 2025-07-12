@@ -10,7 +10,6 @@ I initially tried using a pre-trained GitHub model, but integration issues pushe
 Here is an overview:  
 
 ![](image/image-avalanche.png)  
-![](image/image%20avalanche%202.png)
 
 ## The whole project 
 ### Our vision
